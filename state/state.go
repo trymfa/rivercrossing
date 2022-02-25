@@ -1,6 +1,6 @@
 package state
 
-func ViewState() stringg {
+func ViewState() string {
 	return "[kylling rev korn hs ---\\ \\__/ _________________/---]"
 	}
 }
